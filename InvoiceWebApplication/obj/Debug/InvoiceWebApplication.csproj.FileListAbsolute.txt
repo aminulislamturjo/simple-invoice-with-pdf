@@ -1,0 +1,46 @@
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.dll.config
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.pdb
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.SqlServer.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Helpers.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Mvc.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Razor.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Deployment.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Razor.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.SqlServer.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Razor.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Deployment.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Razor.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Helpers.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Mvc.xml
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.csprojResolveAssemblyReference.cache
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.dll
+E:\TURJO\Visual Studio\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.pdb
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.dll.config
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\InvoiceWebApplication.pdb
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.SqlServer.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Helpers.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Mvc.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Razor.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\EntityFramework.SqlServer.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Razor.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Helpers.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\System.Web.Mvc.xml
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.csprojResolveAssemblyReference.cache
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\obj\Debug\InvoiceWebApplication.pdb
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aminul\Desktop\DigitalLab\InvoiceWebApplication\InvoiceWebApplication\bin\Rotativa.dll
